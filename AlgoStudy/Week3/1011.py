@@ -1,7 +1,5 @@
 #Fly me to the Alpha Centauri
-# x + k <= y-1이기만 하면 계속 크게 간다.
-# 근데 x + k > y-1 보다 커진다? 그러면 이제 + 1만 시킨다
-# 마지막에 x+1 == y 이다? 그러면 그냥 1만 더하고 break
+# 수학 공식 찾는 문제 -> 숫자 여러개 나열해서 규칙성 찾아야함
 t = int(input())
 
 for i in range(t):
