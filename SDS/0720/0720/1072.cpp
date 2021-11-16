@@ -10,7 +10,7 @@ int main(void) {
 	cin >> x >> y;
 	
 	long percent = 100 * y / x;
-	cout << "percent: " << percent<<endl;
+	
 	
 	if (percent>=99) { // 불가능한 경우
 		cout << -1;
