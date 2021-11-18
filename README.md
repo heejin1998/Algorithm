@@ -8,7 +8,9 @@
    
   **:confused: Retry**
    
-    [2108 통계학](https://github.com/heejin1998/Algorithm/blob/master/AlgoStudy/Week5/2108.py)
+    * [2108 통계학](https://github.com/heejin1998/Algorithm/blob/master/AlgoStudy/Week5/2108.py)
+    
+    * [18870 좌표압축](https://github.com/heejin1998/Algorithm/blob/master/AlgoStudy/Week5/18870.py) - Dict 자료구조 사용
 
 
 
